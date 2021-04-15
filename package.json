@@ -1,0 +1,22 @@
+{
+  "name": "tensorflow-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantns9/tensorflow-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantns9/tensorflow-test/issues"
+  },
+  "homepage": "https://github.com/prashantns9/tensorflow-test#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.7.0"
+  }
+}
